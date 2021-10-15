@@ -1,11 +1,7 @@
-<h1 align="center">你好👋，我是老中医</h1>
-<h3 align="center">正在努力学习的程序员💪</h3>
+<h1 align="center">Hi👋, I am Onlly</h1>
+<h3 align="center">Programmers who are studying hard💪</h3>
 
-- 🔭 我目前在一家小而美的技术公司担任移动端负责人
-- 🌱 我目前正在学习 [Flutter](https://flutter.dev)、[iOS](https://developer.apple.com)、[Android](https://developer.android.com/)、[.NET](https://docs.microsoft.com/zh-cn/dotnet/?WT.mc_id=dotnet-35129-website) ，我现在是 `Flutter` 和 `Dart` 的忠实粉丝
-- 💬 你有任何 `Flutter` 的问题，可以通过左侧的微信 <img src="https://www.vectorlogo.zone/logos/wechat/wechat-tile.svg" alt="wechat" width="16" height="16"/> 或邮件 <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="16" height="16"/> 联系到我
-
-### 关于我
+### About me
 
 - 18 年～至今年，使用 Android/Flutter开发移动APP 包括物联网智能硬件、商城、体育数据分析、淘宝客
 
